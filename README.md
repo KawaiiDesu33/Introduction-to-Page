@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KawaiiDesu33 (Terence
+- 👋 Hi, I’m @KawaiiDesu33 (Terence)
 - 👀 I'm simply just placing the files I am learning and testing on in this location / page
 
 <!---
